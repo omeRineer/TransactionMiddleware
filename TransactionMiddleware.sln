@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionMiddleware", "TransactionMiddleware\TransactionMiddleware.csproj", "{A01BB38C-06C9-46D7-BD39-48F927A4A13A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A01BB38C-06C9-46D7-BD39-48F927A4A13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01BB38C-06C9-46D7-BD39-48F927A4A13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01BB38C-06C9-46D7-BD39-48F927A4A13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01BB38C-06C9-46D7-BD39-48F927A4A13A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E478C559-8A92-4700-8671-B299EF39E865}
+	EndGlobalSection
+EndGlobal
